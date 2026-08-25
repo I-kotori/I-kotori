@@ -4,7 +4,7 @@
   <a href="https://butterflyjin.notion.site/maplestory">
     <img src="https://img.shields.io/badge/CV-181717?style=for-the-badge&logo=readme&logoColor=white"/>
   </a>
-  <a href="[https://butterflyjin.kr](https://blog.naver.com/butterflyjin77)">
+  <a href="https://blog.naver.com/butterflyjin77">
     <img src="https://img.shields.io/badge/Tech blog-20C997?style=for-the-badge&logo=velog&logoColor=white" alt="Tech blog"/>
   </a>
 </p>
