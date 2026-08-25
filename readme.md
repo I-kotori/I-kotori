@@ -53,3 +53,7 @@
 
 > Google Indie Games Festival | 온라인 심사위원 | 2021 ~ 2022<br>
 > **출품작을 직접 플레이하고 게임성, 완성도, 사용자 경험을 중심으로 평가 및 피드백**<br>
+
+
+
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=sadang_mofun)](https://solved.ac/sadang_mofun)
