@@ -7,8 +7,8 @@
   <a href="https://blog.naver.com/butterflyjin77">
     <img src="https://img.shields.io/badge/Tech blog-20C997?style=for-the-badge&logo=velog&logoColor=white" alt="Tech blog"/>
   </a>
-  <a href="https://ko-fi.com/butterflyjin">
-    ☕ Ko-fi
+  <a href="https://ko-fi.com/실제아이디">
+    <img src="https://img.shields.io/badge/Ko--fi-Support_Me-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi"/>
   </a>
 </p>
 
