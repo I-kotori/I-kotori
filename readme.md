@@ -13,7 +13,7 @@ Building and studying practical LLM agents, with a focus on how they behave, fai
 - **[CoELA-Lite on AI2-THOR](https://github.com/I-kotori/ithor-coela-multi-agent-research)** — Lightweight two-agent simulation with step-by-step JSON logging and side-by-side plan/execution visualization
 - **[YouTube Opinion Visualization](https://github.com/OSSP-CSC4004-03-10/OSSP_CSC4004_03_10)** — Embedding + DBSCAN comment clustering and local LLM summarization pipeline to inspect opinion distributions
 
-[Homepage](https://butterflyjin.kr) · [LinkedIn](https://www.linkedin.com/in/butterflyjin) · [Email](mailto:butterflyjin77@gmail.com) · [blog](https://blog.naver.com/butterflyjin77)
+[Homepage](https://butterflyjin.kr) · [LinkedIn](https://www.linkedin.com/in/butterflyjin) · [Email](mailto:butterflyjin77@gmail.com) · [Blog](https://blog.naver.com/butterflyjin77)
 
 
 
